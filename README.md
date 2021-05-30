@@ -1,6 +1,1 @@
-## Wireframes
-
-Home Page
-
-
 
