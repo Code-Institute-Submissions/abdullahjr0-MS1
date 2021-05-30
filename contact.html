@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta content="IE=edge" http-equiv="X-UA-Compatible">
+        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        <meta content="A website for personal training services" name="description">
+        <meta content="Personal Trainer, fitness, trainer, gym, weight loss" name="keywords">
+        <link href="assets/css/style.css" rel="stylesheet">
+    
+        <title>AJR FITNESS</title>
+    </head>
+     <body>
+        <header>
+        <nav>
+          <ul class="menu">
+            <li>
+                <a class="active" href="contact.html">Contact</a>
+            </li>
+             <li>
+              <a href="services.html">Services</a>
+             </li>
+            
+            <li>
+                 <a href="about-us.html">About Us</a>
+             </li>
+             <li>
+                   <a href="index.html">Home</a>
+            </li>
+     
+          </ul>
+        </nav>
+    </header>
+    <section class="contact-page">
+        <form method="POST" action="https://formdump.codeinstitute.net/" class="signup-form">
+            <label for="fname">First Name:</label>
+            <input class="text-input" id="fname" name="first_name" type="text" required>
+            
+            <label for="lname">Last Name:</label>
+            <input class="text-input" id="lname" name="last_name" type="text" required>
+            
+            <label for="email">Email Address:</label>
+            <input class="text-input" type="email" id="email" name="email_address" required>
+
+            <label for="subject">Subject</label>
+				<select id="subject" name="subject" class="text-select">
+                    <option value="">Please choose an option</option>
+  					<option value="General Enquiry">General Enquiry</option>
+  					<option value="Question">Question</option>
+					<option value="Booking">Booking</option>
+  					<option value="Other">Other</option>
+				</select>
+
+			<label for="message">Message:</label>
+        	<textarea id="message" name="subject" placeholder="Leave a message.." rows="4" cols="50"></textarea>
+            
+            <input class="send-button" type="submit" value="SEND">
+        </form>
+    </section>
