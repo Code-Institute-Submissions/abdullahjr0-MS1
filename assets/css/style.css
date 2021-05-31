@@ -68,7 +68,7 @@ nav a {
 	width: 100%;
 	top: 450px;
 	background: #ebebeb;
-	height: 1500px;
+	height: 900px;
 }
 .home-content h2 {
 	font-family: poppins;
@@ -211,3 +211,46 @@ font-family: poppins;
 label {
   float: left;
 }
+
+/* about us page */
+.about-content {
+	width: 100%;
+	top: 450px;
+	background: #ebebeb;
+	height: 1500px;
+}
+
+.about-content p {
+	padding: 2% 0px;
+	font-family: poppins;
+	line-height: 30px;
+  margin-left: 33%;
+  margin-right: 33%;
+  text-align: justify;
+}
+.about-us-page {
+	width: 100%;
+	height: 500px;
+	top: 100px;
+	background-image: url(../images/about-us.jpeg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+}
+.about-us-page h2 {
+	padding-top: 13.5%;
+	font-size: 50px;
+	font-family: poppins;
+	color: #fff;
+}
+
+.testimonials {
+  color: #262626;
+  font-size:50px;
+}
+.before {
+  float: left;
+  margin-left: 15%;
+}
+
+/* Testimonials */
