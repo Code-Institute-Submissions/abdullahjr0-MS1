@@ -10,50 +10,81 @@
     
         <title>AJR FITNESS</title>
     </head>
-     <body>
-        <header>
-        <nav>
-          <ul class="menu">
-            <li>
-                <a class="active" href="contact.html">Contact</a>
-            </li>
-             <li>
-              <a href="services.html">Services</a>
-             </li>
-            
-            <li>
-                 <a href="about-us.html">About Us</a>
-             </li>
-             <li>
-                   <a href="index.html">Home</a>
-            </li>
-     
-          </ul>
-        </nav>
-    </header>
-    <section class="contact-page">
-        <form method="POST" action="https://formdump.codeinstitute.net/" class="contact-form">
-            <label for="fname">First Name:</label>
-            <input class="text-input" id="fname" name="first_name" type="text" required>
-            
-            <label for="lname">Last Name:</label>
-            <input class="text-input" id="lname" name="last_name" type="text" required>
-            
-            <label for="email">Email Address:</label>
-            <input class="text-input" type="email" id="email" name="email_address" required>
+        <body>
+            <div class="header-area">
+           <header>
+             <div class="header-style"> 
+               <div class="logo">
+             <a href="index.html">AJR FITNESS</a>
+               </div>
+               <nav>
+                 <a href="index.html">Home</a>
+                 <a href="about-us.html">About Us</a> 
+                 <a href="services.html">Services</a>
+                 <a class="active" href="contact.html">Contact</a>
+               </nav>
+             </div>
+           </header>
+           <div class="contact-page">
+             <h2>Get in touch</h2>
+           </div>
+           <br>
+           <br>
+           <br>
+           <p>If you would like more information please don't hesitate to contact us!</p>
+           <section class="contact-content">
+               <br>
+               <br>
+            <form method="POST" action="https://formdump.codeinstitute.net/" class="contact-form">
+                <label for="fname">First Name:</label>
+                <input class="text-input" id="fname" name="first_name" type="text" required>
+                
+                <label for="lname">Last Name:</label>
+                <input class="text-input" id="lname" name="last_name" type="text" required>
+                
+                <label for="email">Email Address:</label>
+                <input class="text-input" type="email" id="email" name="email_address" required>
 
-            <label for="subject">Subject</label>
-				<select id="subject" name="subject" class="text-select">
-                    <option value="">Please choose an option</option>
-  					<option value="General Enquiry">General Enquiry</option>
-  					<option value="Question">Question</option>
-					<option value="Booking">Booking</option>
-  					<option value="Other">Other</option>
-				</select>
+                <label for="subject">Subject:</label>
+                    <select id="subject" name="subject" class="subject-area">
+                          <option value="">Choose an option</option>
+                          <option value="General Enquiry">General Enquiry</option>
+                          <option value="Booking">Booking</option>
+                          <option value="Other">Other</option>
+                    </select>
+    
+                <label for="message">Message:</label>
+                <textarea id="message" name="subject" placeholder="Leave a message.." style="height:100px"></textarea>
+                
+                <input class="send-button" type="submit" value="Send">
+            </form>
+        </section>
+        <br>
+        <br>
 
-			<label for="message">Message:</label>
-        	<textarea id="message" name="subject" placeholder="Leave a message.." rows="4" cols="50"></textarea>
-            
-            <input class="send-button" type="submit" value="SEND">
-        </form>
-    </section>
+        <footer>
+            <ul class="social-media">
+              <li>
+                <a aria-label="Visit my Facebook page (opens in a new tab)" href="https://facebook.com" rel="noopener" target="_blank"><i class="fab fa-facebook-square"></i></a>
+              </li>
+      
+      
+              <li>
+                <a aria-label="Visit my Twitter page (opens in a new tab)" href="https://twitter.com" rel="noopener" target="_blank"><i class="fab fa-twitter"></i></a>
+              </li>
+      
+      
+              <li>
+                <a aria-label="Visit my YouTube page (opens in a new tab)" href="https://youtube.com" rel="noopener" target="_blank"><i class="fab fa-youtube"></i></a>
+              </li>
+      
+      
+              <li>
+                <a aria-label="Visit my Instagram page (opens in a new tab)" href="https://instagram.com" rel="noopener" target="_blank"><i class="fab fa-instagram"></i></a>
+              </li>
+            </ul>
+            <script src="https://kit.fontawesome.com/67f55bc251.js">
+            </script>
+          </footer>
+</body>
+</html>

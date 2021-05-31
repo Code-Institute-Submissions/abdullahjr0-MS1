@@ -3,99 +3,211 @@
 *{
     margin: 0%;
     padding: 0%;
-    border: 0%;
-  }
-  body {
-    font-family: 'Open Sans', sans-serif;
-    color: black;
-  }
-  
-  h2 {
-    font-family: 'Poppins' sans-serif;
-    color: black;
-  }
-  
-  .logo {
-    float: left;
-    font-size: 300%;
-    text-decoration: none;
-    color: black;
-  }
-  
-  .menu {
-    font-size: 110%;
-    list-style-type: none;
-    letter-spacing: 1px;
-    font-weight: 500;
-  }
-  .menu li {
-    float: right;
-    margin-right: 30px;
-    word-spacing: 4px;
-  }
-  
-  .logo, .menu {
-    line-height: 65px;
-  }
-  
-  .hero-image {
-    height: 600px;
-    width: 100%;
-    background: url(../images/homepage.jpg) no-repeat center center;
-    animation-name: hero-zoom;
-    animation-duration: 5s;
-    animation-fill-mode: forwards;
-    z-index: -1;
-  }
-  
-  .hero-outer {
-    height: 600px;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-    z-index: -1;
-  }
-  
-  @keyframes hero-zoom {
-    from {
-  transform: scale (1)
-    }
-    to {
-      transform: scale(1.1)
-    }
-  }
-  
-  .cover-text {
-    font-size: 130%;
-    font-family: 'Poppins' sans-serif;
-    text-align: center;
-    position: absolute;
-    color: black;
-  }
-  
-/* Navigation Bar */
-.menu {
-    font-size: 135%;
-    list-style-type: none;
-    color: white
 }
-.menu li {
-    float: right;
-    margin-right: 50px;
-    word-spacing: 4px;
+body {
+	text-align: center;
+  font-family: poppins;
 }
-
-.menu a {
-    text-decoration: none;
-    color:inherit;
-}
-
-.menu a:hover {
-    color: #e6e6e6;
-}
-
 .active {
-    color: #e6e6e6;
+  color: #c1c1c1;
+}
+a:hover {
+  color: #c1c1c1;
 }
 
-/* Contact Page*/
+}
+.header-style {
+	width: 1170px;
+	margin: 0 auto;
+}
+header {
+	height: 100px;
+	background: #262626;
+	width: 100%;
+}
+.logo {
+	width: 30%;
+	float: left;
+	line-height: 100px;
+}
+.logo a {
+	text-decoration: none;
+	font-size: 30px;
+	font-family: poppins;
+	color: #fff;
+	letter-spacing: 5px;
+}
+nav {
+	float: right;
+	line-height: 100px;
+}
+nav a {
+	text-decoration: none;
+	font-family: poppins;
+	letter-spacing: 4px;
+	font-size: 20px;
+	margin: 0 10px;
+	color: #fff;
+}
+.banner {
+	width: 100%;
+	height: 500px;
+	top: 100px;
+	background-image: url(../images/homepage.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+}
+.banner h2 {
+	padding-top: 13.5%;
+	font-size: 50px;
+	font-family: poppins;
+	color: #fff;
+}
+.home-content {
+	width: 100%;
+	top: 450px;
+	background: #ebebeb;
+	height: 1500px;
+}
+.home-content h2 {
+	font-family: poppins;
+	letter-spacing: 4px;
+	padding-top: 30px;
+	font-size: 40px;
+	margin: 0;
+}
+.home-content p {
+	padding: 2% 0px;
+	font-family: poppins;
+	line-height: 30px;
+  margin-left: 33%;
+  margin-right: 33%;
+  text-align: justify;
+}
+
+
+
+/* footer logos */
+
+footer {
+	background: #262626;
+	width: 100%;
+	z-index: 10;
+  height: 150px;
+}
+
+.social-media {
+	text-align: center;
+}
+
+.social-media > li {
+	display: inline;
+}
+
+.social-media i {
+	font-size: 200%;
+	margin: 1%;
+	padding: 1%;
+	color: white;
+}
+
+/* Services button */
+
+.services {
+  background-color: #262626; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.service-links {
+  text-decoration: none;
+  font-family: poppins;
+  color: white;
+}
+
+/* Contact Page */
+
+.contact-page {
+	width: 100%;
+	height: 500px;
+	top: 100px;
+	background-image: url(../images/Get-in-touch.jpeg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+}
+.contact-page h2 {
+	padding-top: 13.5%;
+	font-size: 50px;
+	font-family: poppins;
+	color: #fff;
+}
+.contact-content {
+  height: 900px;
+}
+
+.contact-form {
+  margin: 40px 15% 0 0;
+  color: #262626;
+  max-width: 800px;
+  margin: auto;
+  padding: 30px;
+  font-family: poppins;
+}
+
+.text-input, textarea {
+  background: transparent;
+  color: #262626;
+  width: 100%;
+  height: 25px;
+  margin: 5px 0 20px 0;
+  border: 1px solid #262626;
+  border-radius: 2px;
+}
+
+::placeholder {
+color: black;
+font-family: poppins;
+}
+
+.subject-area:hover, .text-input:hover, textarea:hover {
+  border-color: white;
+}
+
+.subject-area {
+  background: transparent;
+  color: black;
+  font-size: 1.25em;
+  width: 100%;
+  height: 25px;
+  margin: 5px 0 20px 0;
+  border: 1px solid #262626;
+  border-radius: 2px;
+  font-family: poppins;
+}
+
+.send-button {
+  border-radius: 7px;
+  padding: 20px 20px 20px 20px;
+  text-align: center;
+  background-color:#262626;
+  color:white;
+  display: block;
+  font-family: poppins;
+  font-size: 200%;
+  float: left;
+}
+
+.send-button:hover {
+  background-color: white;
+  color: #262626;
+}
+
+label {
+  float: left;
+}
