@@ -123,6 +123,7 @@ footer {
   text-decoration: none;
   font-size: 16px;
   border-radius: 7px;
+  font-size: 25px;
 }
 
 .service-links {
@@ -258,13 +259,28 @@ label {
 /* Testimonials */
 
 
+.before-after {
+	margin-left: 22%;
+	padding-bottom: 100px;
+	float: left;
+	clear: both;
+  }
+  
+  .training h2 {
+
+  text-align: justify;
+  float:right;
+  width:20%;
+  margin-right: 28%;
+
+}
 
 /*Services page*/
 .services-page {
 	width: 100%;
 	height: 500px;
 	top: 100px;
-	background-image: url(../images/Get-in-touch.jpeg);
+	background-image: url(../images/service-page.jpeg);
 	-webkit-background-size: cover;
 	background-size: cover;
 	background-position: center center;
@@ -346,16 +362,4 @@ label {
 	padding-top: 10px;
 	padding-left: 5px;
 	padding-right: 5px;
-  }
-
-  .book-now {
-	background-color: #262626; 
-	border: none;
-	color: white;
-	padding: 15px 32px;
-	text-align: center;
-	text-decoration: none;
-	font-size: 16px;
-	border-radius: 7px;
-	margin: auto;
   }
