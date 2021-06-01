@@ -283,7 +283,7 @@ label {
 	width: 100%;
 	top: 450px;
 	background: #ebebeb;
-	height: 1500px;
+	height: 1800px;
 }
 
 .services-content p {
@@ -309,7 +309,7 @@ label {
 	height: 325px;
 	perspective: 1000px; 
 	margin-left: 28%;
-	padding-bottom: 50px;
+	padding-bottom: 100px;
   }
   
   .flip-card-inner {
@@ -343,7 +343,19 @@ label {
 	background-color:#262626;
 	color: white;
 	transform: rotateY(180deg);
-	padding-top: 5px;
+	padding-top: 10px;
 	padding-left: 5px;
 	padding-right: 5px;
+  }
+
+  .book-now {
+	background-color: #262626; 
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+	border-radius: 7px;
+	margin: auto;
   }
