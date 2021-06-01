@@ -54,7 +54,10 @@
                     </select>
     
                 <label for="message">Message:</label>
-                <textarea id="message" name="subject" placeholder="Leave a message.." style="height:100px"></textarea>
+                <textarea id="message" name="subject" placeholder="Leave a message.." 
+                onfocus="this.placeholder=''" 
+                onblur="this.placeholder='Leave a message..'" 
+                style="height:100px"></textarea>
                 
                 <input class="send-button" type="submit" value="Send">
             </form>

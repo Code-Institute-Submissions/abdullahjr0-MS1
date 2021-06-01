@@ -122,6 +122,7 @@ footer {
   text-align: center;
   text-decoration: none;
   font-size: 16px;
+  border-radius: 7px;
 }
 
 .service-links {
@@ -175,6 +176,7 @@ color: black;
 font-family: poppins;
 }
 
+
 .subject-area:hover, .text-input:hover, textarea:hover {
   border-color: white;
 }
@@ -182,7 +184,7 @@ font-family: poppins;
 .subject-area {
   background: transparent;
   color: black;
-  font-size: 1.25em;
+  font-size: 0.9em;
   width: 100%;
   height: 25px;
   margin: 5px 0 20px 0;
@@ -254,3 +256,94 @@ label {
 }
 
 /* Testimonials */
+
+
+
+/*Services page*/
+.services-page {
+	width: 100%;
+	height: 500px;
+	top: 100px;
+	background-image: url(../images/Get-in-touch.jpeg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+}
+.services-page h2 {
+	padding-top: 13.5%;
+	font-size: 50px;
+	font-family: poppins;
+	color: #fff;
+}
+.services-content {
+  height: 900px;
+}
+
+.services-content {
+	width: 100%;
+	top: 450px;
+	background: #ebebeb;
+	height: 1500px;
+}
+
+.services-content p {
+	padding: 2% 0px;
+	font-family: poppins;
+	line-height: 30px;
+  text-align: justify;
+  float:right;
+  width:20%;
+  margin-right: 28%;
+
+}
+
+.training {
+	padding-top:50px;
+}
+
+/* flip images */
+
+.flip-card {
+	background-color: transparent;
+	width: 400px;
+	height: 325px;
+	perspective: 1000px; 
+	margin-left: 28%;
+	padding-bottom: 50px;
+  }
+  
+  .flip-card-inner {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	transition: transform 0.8s;
+	transform-style: preserve-3d;
+  }
+  
+  .flip-card:hover .flip-card-inner {
+	transform: rotateY(180deg);
+  }
+  
+  .flip-card-front, .flip-card-back {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	-webkit-backface-visibility: hidden; 
+	backface-visibility: hidden;
+  }
+  
+  /* Style the front side (fallback if image is missing) */
+  .flip-card-front {
+	background-color: #bbb;
+	color: black;
+  }
+  
+  .flip-card-back {
+	background-color:#262626;
+	color: white;
+	transform: rotateY(180deg);
+	padding-top: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+  }
