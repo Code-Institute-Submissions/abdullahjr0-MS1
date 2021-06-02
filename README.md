@@ -89,6 +89,7 @@ On the top right, there is a nav bar which allows for efficient navigation throu
 * This page can be reached through the Nav bar or from the service buttons shown on the landing page.
 * Provides three different service options and a brief description to fit the picture.
 * The images allow a flipping animation which provide information of times available as referenced in home page as well as adding visual to UI and improving UX.
+* Book now button which upon click navigates the user to the contact page allowing quick and efficient UX. Also includes hover affect wehre text color changes to improve aesthetics.
 
 ##  Contact Page
 
@@ -114,4 +115,4 @@ On the top right, there is a nav bar which allows for efficient navigation throu
 
 # 4. Testing
 
-Testing information can be found here <a href="testing.md>
+Testing information can be found<a href="testing.md">here</a>
