@@ -245,7 +245,7 @@ label {
 	width: 100%;
 	top: 450px;
 	background: #ebebeb;
-	height: 1500px;
+	height: 1900px;
 }
 
 .about-content p {
@@ -278,6 +278,8 @@ label {
 .testimonials {
   color: #262626;
   font-size:50px;
+  padding-bottom: 50px;
+  padding-top: 50px;
 }
 
 .before-after {
@@ -289,6 +291,7 @@ label {
 	float: left;
 	clear:right;
 	padding-bottom: 125px;
+	padding: 75px;
 }
 
   
@@ -319,7 +322,7 @@ label {
 	background-image: url(../images/service-page.jpeg);
 	-webkit-background-size: cover;
 	background-size: cover;
-	background-position: center center;
+	background-position: tcenter center;
 }
 .services-page h2 {
 	padding-top: 13.5%;
@@ -351,7 +354,7 @@ label {
 	text-align: justify;
 	float:right;
 	width:30%;
-	margin-right: 23%;
+	margin-right: 15%;
 	padding-top: 80px;
 
 }
@@ -364,7 +367,7 @@ label {
 	width: 400px;
 	height: 325px;
 	perspective: 1000px; 
-	margin-left: 8%;
+	margin-left: 15%;
 	padding-bottom: 100px;
 	padding-top: 75px;
   }
