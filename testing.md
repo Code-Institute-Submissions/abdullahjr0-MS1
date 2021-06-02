@@ -1,6 +1,7 @@
 ## Websites uses to validate my code:
 
-####  1. Lighthouse - To identify and fix common problems affecting my sites Performance, Best Practices, Accessibility and SEO. By right clicking and choosing inspect or
+####  1. Lighthouse 
+ To identify and fix common problems affecting my sites Performance, Best Practices, Accessibility and SEO. By right clicking and choosing inspect or
 pressing the keyboard combination "Ctrl + Shift + I" I was able to view and edit my code before making changes.
 
 Desktop Perfomance
@@ -17,7 +18,7 @@ No errors or warnings shown for CSS.
 
 ## Manual Testing
 
-##### All pages
+### All pages
 
 * Navigation Bar:
     * Home - When clicking on Home I am directed to the Home Page and the text changes from white to light grey to indicate that I am on the home page. The other nav buttons

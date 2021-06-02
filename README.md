@@ -115,4 +115,4 @@ On the top right, there is a nav bar which allows for efficient navigation throu
 
 # 4. Testing
 
-Testing information can be found<a href="testing.md">here</a>
+Testing information can be found <a href="testing.md">here</a>
