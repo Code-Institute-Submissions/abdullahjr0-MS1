@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap'); 
 
-*{
+* {
     margin: 0%;
     padding: 0%;
 }
@@ -9,6 +9,7 @@ body {
 	text-align: center;
   font-family: poppins;
 }
+
 .active {
   color: #c1c1c1;
 }
@@ -17,21 +18,24 @@ a:hover {
   color: #c1c1c1;
 }
 
-}
+
 .header-style {
 	width: 1170px;
 	margin: 0 auto;
 }
+
 header {
 	height: 100px;
 	background: #262626;
 	width: 100%;
 }
+
 .logo {
 	width: 30%;
 	float: left;
 	line-height: 100px;
 }
+
 .logo a {
 	text-decoration: none;
 	font-size: 30px;
@@ -39,11 +43,12 @@ header {
 	color: #fff;
 	letter-spacing: 5px;
 }
+
 nav {
 	float: right;
 	line-height: 100px;
-	padding-right: 50px;
 }
+
 nav a {
 	text-decoration: none;
 	font-family: poppins;
@@ -52,6 +57,7 @@ nav a {
 	margin: 0 10px;
 	color: #fff;
 }
+
 .banner {
 	width: 100%;
 	height: 500px;
@@ -61,18 +67,21 @@ nav a {
 	background-size: cover;
 	background-position: center center;
 }
+
 .banner h2 {
 	padding-top: 11.5%;
 	font-size: 75px;
 	font-family: poppins;
 	color: #fff;
 }
+
 .home-content {
 	width: 100%;
 	top: 450px;
 	background: #ebebeb;
 	height: 900px;
 }
+
 .home-content h2 {
 	font-family: poppins;
 	letter-spacing: 4px;
@@ -80,6 +89,7 @@ nav a {
 	font-size: 40px;
 	margin: 0;
 }
+
 .home-content p {
 	padding: 2% 0px;
 	font-family: poppins;
@@ -141,6 +151,7 @@ footer {
 	font-size: 150%;
 	padding: 1%;
 }
+
 .phone {
 	font-size: 150%;
 }
@@ -153,14 +164,15 @@ footer {
 	-webkit-background-size: cover;
 	background-size: cover;
 	background-position: center center;
-	
 }
+
 .contact-page h2 {
 	padding-top: 11.5%;
 	font-size: 65px;
 	font-family: poppins;
 	color: #fff;
 }
+
 .contact-content {
   height: 720px;
   
@@ -244,6 +256,7 @@ label {
   margin-right: 33%;
   text-align: justify;
 }
+
 .about-us-page {
 	width: 100%;
 	height: 500px;
@@ -253,6 +266,7 @@ label {
 	background-size: cover;
 	background-position: center center;
 }
+
 .about-us-page h2 {
 	padding-top: 11.5%;
 	font-size: 65px;
@@ -271,8 +285,6 @@ label {
 	margin-left: 23%;
 }
 
-
-
 .training {
 	float: left;
 	clear:right;
@@ -280,7 +292,7 @@ label {
 }
 
   
-  .training h2 {
+.training h2 {
 
   text-align: justify;
   float:right;
@@ -288,6 +300,7 @@ label {
   margin-right: 28%;
 
 }
+
 .training h4 {
 	text-align: justify;
 	float:right;
@@ -298,6 +311,7 @@ label {
 
 
 /*Services page*/
+
 .services-page {
 	width: 100%;
 	height: 500px;
@@ -313,7 +327,6 @@ label {
 	font-family: poppins;
 	color: #fff;
 }
-
 
 .services-content {
 	width: 100%;
@@ -332,12 +345,17 @@ label {
   margin-right: 28%;
   clear:left;
 
+}
+
+.training1 h4 {
+	text-align: justify;
+	float:right;
+	width:30%;
+	margin-right: 23%;
+	padding-top: 80px;
 
 }
 
-.training {
-	padding-top:50px;
-}
 
 /* flip images */
 
@@ -346,12 +364,12 @@ label {
 	width: 400px;
 	height: 325px;
 	perspective: 1000px; 
-	margin-left: 28%;
+	margin-left: 8%;
 	padding-bottom: 100px;
 	padding-top: 75px;
   }
   
-  .flip-card-inner {
+.flip-card-inner {
 	position: relative;
 	width: 100%;
 	height: 100%;
@@ -360,11 +378,11 @@ label {
 	transform-style: preserve-3d;
   }
   
-  .flip-card:hover .flip-card-inner {
+.flip-card:hover .flip-card-inner {
 	transform: rotateY(180deg);
   }
   
-  .flip-card-front, .flip-card-back {
+.flip-card-front, .flip-card-back {
 	position: absolute;
 	width: 100%;
 	height: 100%;
@@ -373,12 +391,12 @@ label {
   }
   
   
-  .flip-card-front {
+.flip-card-front {
 	background-color: #bbb;
 	color: black;
   }
   
-  .flip-card-back {
+.flip-card-back {
 	background-color:#262626;
 	color: white;
 	transform: rotateY(180deg);
@@ -386,3 +404,5 @@ label {
 	padding-left: 5px;
 	padding-right: 5px;
   }
+
+  /*Make Responsive */
