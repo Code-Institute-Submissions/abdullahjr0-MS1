@@ -27,7 +27,7 @@ No errors or warnings shown for CSS.
     * Text - Font family is consistent on all pages, and no grammar/spelling mistakes were found.
     * Media - I checked that all the Images load properly on all the pages. 
     * Responsiveness - I checked if all the pages and its contents were responsive using Chrome inspect. Also viewing each page using an iPhone, iPad, Macbook and other devices. 
-* Footer - When selecting the social media icons I am redirected to the different appropriate websites _ as expected_
+* Footer - When selecting the social media icons I am redirected to the different appropriate websites _as expected_
 * Hero Image - Loads on all pages.
 
 #### Home Page
