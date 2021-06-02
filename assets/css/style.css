@@ -79,7 +79,7 @@ nav a {
 	width: 100%;
 	top: 450px;
 	background: #ebebeb;
-	height: 900px;
+	height: 1200px;
 }
 
 .home-content h2 {
@@ -99,7 +99,10 @@ nav a {
   text-align: justify;
 }
 
-
+.visual {
+	margin: auto;
+	padding-top: 50px;
+}
 
 /* footer logos */
 
@@ -407,5 +410,7 @@ label {
 	padding-left: 5px;
 	padding-right: 5px;
   }
+
+
 
   /*Make Responsive */

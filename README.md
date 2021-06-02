@@ -88,9 +88,30 @@ On the top right, there is a nav bar which allows for efficient navigation throu
 
 * This page can be reached through the Nav bar or from the service buttons shown on the landing page.
 * Provides three different service options and a brief description to fit the picture.
-* The images allow a flipping animation which provide information of times available as referenced in home page as well as adding visual to UI and improving UX
+* The images allow a flipping animation which provide information of times available as referenced in home page as well as adding visual to UI and improving UX.
 
 ##  Contact Page
 
 * A contact form to allow users to contact AJRF if they have an enquiry.
-* Single column layout in intuitive order to allow efficient 
+* Single column layout in intuitive order to allow efficient UX.
+* Drop down section under 'Subject' to allow user to specifiy their message.
+* Hover effect applied on the form to allow the user to understand which part of the form they are completing.
+
+#  3. Technologies used 
+
+* HTML5
+    * The project uses HyperText Markup Language.
+* CSS3
+    * The project uses Cascading Style Sheets.
+* <a href="Balsamiq.com">Balsamiq</a>
+    * Used to create the wireframes during the initial design process.
+* <a href="Github.com">Github</a>
+    * Used to store project's code and files after being pushed from Git.
+* <a href="https://fonts.google.com/specimen/Poppins?query=pop">Google Fonts</a>
+    * Google fonts were used to import the "Poppins" font into style.css which is uses on all pages.
+*  <a href="https://www.google.com/intl/en_uk/chrome/">Google Chrome</a>
+    * The project uses Chrome to inspect the source code and uses lighthouse to test Performance, Best Practices, Accessibility and SEO.
+
+# 4. Testing
+
+Testing information can be found here <a href="testing.md>
