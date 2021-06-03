@@ -12,7 +12,7 @@ You can view the website here
 
 
 # Table of contents
-1. <a href="#UX">UX</a>
+1. <a href="readme.md#UX">UX</a>
 2. Features
 3. Technologies used
 4. Testing
@@ -21,8 +21,8 @@ You can view the website here
 7. End Product
 8. Credits
 
-<id="UX">
-# 1. UX
+
+# 1. <div id="UX">UX</div>
 
 As an avid gym member, I wanted to create a website which allowed me to use my passion as a tool to help others acheive their fitness goals
 
