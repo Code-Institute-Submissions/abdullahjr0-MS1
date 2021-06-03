@@ -27,7 +27,7 @@ This website is immediately apparent to users from first glance, allowing them t
 
 The goal of this website is to provide training services to help users to acheive their fitness goals, as well as increasing brand credibility.
 
-### *User goals:
+### User goals:
 * __First time visitor goals__
     * As a first time visitor, I want to immediately understand what the website is about
     * As a first time visitor, I want to be able to easily navigate and interact with the website
@@ -50,7 +50,7 @@ The website should allow Users to feel satisfied with their experience regardles
     * Have the ability to contact the company via email, telephone or physically showing up.
     * Responsive design across all devices
 
-## *Design 
+## Design 
 
 ### __Typography__
 * The Poppins font is the primary font used throughout the whole website. Sans Serif is the fallback font in case the primary font is not displayed correctly. Poppins is a sleek font that is used in Graphic design, providing an aesthetically pleasing experience for the user.
