@@ -12,14 +12,14 @@ You can view the website here
 
 
 # Table of contents
-[1. UX] (#ux)
-[2. Features] (#features)
-[3. Technologies used] (#technologies-used)
-[4. Testing] (#testing)
-[5. Deployment Cycle] (#deployment-cycle)
-[6. Deployment] (#deployment)
-[7. End Product] (#end-product)
-[8. Credits] (#credits)
+1. UX #ux
+2. Features (#features)
+3. Technologies used (#technologies-used)
+4. Testing (#testing)
+5. Deployment Cycle (#deployment-cycle)
+6. Deployment (#deployment)
+7. End Product (#end-product)
+8. Credits (#credits)
 
 <a name="ux"></a>
 # 1. UX
