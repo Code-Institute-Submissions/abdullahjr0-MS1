@@ -18,6 +18,7 @@ a:hover {
   color: #c1c1c1;
 }
 
+/* Header */
 
 .header-style {
 	width: 1170px;
@@ -43,6 +44,7 @@ header {
 	color: #fff;
 	letter-spacing: 5px;
 }
+/* Navigation */
 
 nav {
 	float: right;
@@ -75,11 +77,13 @@ nav a {
 	color: #fff;
 }
 
+/* Home page */
+
 .home-content {
 	width: 100%;
 	top: 450px;
 	background: #ebebeb;
-	height: 900px;
+	height: 1100px;
 }
 
 .home-content h2 {
@@ -99,6 +103,13 @@ nav a {
   text-align: justify;
 }
 
+.visual {
+	padding-top: 75px;
+}
+
+iframe {
+	border: hidden;
+}
 
 /* footer logos */
 
@@ -138,11 +149,7 @@ footer {
   font-size: 25px;
 }
 
-.service-links {
-  text-decoration: none;
-  font-family: poppins;
-  color: white;
-}
+
 
 /* Contact Page */
 
@@ -203,7 +210,8 @@ font-family: poppins;
 
 
 .subject-area:hover, .text-input:hover, textarea:hover {
-  border-color: white;
+  border-color: red;
+  font-weight: 900;
 }
 
 .subject-area {
@@ -240,6 +248,7 @@ label {
 }
 
 /* about us page */
+
 .about-content {
 	width: 100%;
 	top: 450px;
@@ -274,6 +283,7 @@ label {
 }
 
 /* Testimonials */
+
 .testimonials {
   color: #262626;
   font-size:50px;
