@@ -12,17 +12,17 @@ You can view the website here
 
 
 # Table of contents
-1. <a href="readme.md#UX">UX</a>
-2. Features
-3. Technologies used
-4. Testing
-5. Deployment Cycle
-6. Deployment
-7. End Product
-8. Credits
+[1. UX] (#ux)
+[2. Features] (#features)
+[3. Technologies used] (#technologies-used)
+[4. Testing] (#testing)
+[5. Deployment Cycle] (#deployment-cycle)
+[6. Deployment] (#deployment)
+[7. End Product] (#end-product)
+[8. Credits] (#credits)
 
-
-# 1. <div id="UX">UX</div>
+<a name="ux"></a>
+# 1. UX
 
 As an avid gym member, I wanted to create a website which allowed me to use my passion as a tool to help others acheive their fitness goals
 
@@ -72,7 +72,7 @@ The website should allow Users to feel satisfied with their experience regardles
 * Desktop Wireframe - <a href="wireframes.md">View</a>
 * Mobile Wireframe  - <a href="wireframes.md">View</a>
 
-
+<a name="features"></a>
 # 2.  Features
 
 ### All Web pages
@@ -106,7 +106,7 @@ On the top right, there is a nav bar which allows for efficient navigation throu
 * Single column layout in intuitive order to allow efficient UX.
 * Drop down section under 'Subject' to allow user to specifiy their message.
 * Hover effect applied on the form to allow the user to understand which part of the form they are completing.
-
+<a name="technologies-used"></a>
 #  3. Technologies used 
 
 * HTML5
@@ -121,11 +121,11 @@ On the top right, there is a nav bar which allows for efficient navigation throu
     * Google fonts were used to import the "Poppins" font into style.css which is uses on all pages.
 *  <a href="https://www.google.com/intl/en_uk/chrome/">Google Chrome</a>
     * The project uses Chrome to inspect the source code and uses lighthouse to test Performance, Best Practices, Accessibility and SEO.
-
+<a name="testing"></a>
 # 4. Testing
 
 Testing information can be found <a href="testing.md">here</a>
-
+<a name="deployment-cycle"></a>
 # 5. Deployment Cycle
 
 There were a few elements that were changed, re-positioned or added from my original wireframes as they were more appropriate for the user.
@@ -137,16 +137,20 @@ There were a few elements that were changed, re-positioned or added from my orig
 * The original wireframe was missing something which would engage users. I embedded a youtube video to allow the user to feel enticed and reduce the attention from the text. The video is appropriate and fits the page perfectly.
 
 #### Contact page
-* The original wireframe did not include any location or instant contact for the user, which could lead to confusion and hassle. To avoid this I embedded google maps with a pinpoint which provided users of the location and the map allows them to see any local POI's.
+* The original wireframes did not include any location or instant contact for the user, which could lead to confusion and hassle. To avoid this I embedded google maps with a pinpoint which provided users of the location and the map allows them to see any local POI's.
 * A phone nymber is placed at the bottom of the map if the user is interested in instant communication.
 * Contact content remained the same but I added a hover animation over each box to avoid user confusion when filling out and also make it visually pleasing.
 
+#### Future Implements
+* Create a weekly newsletter where users can sign up to, to view any news or updates about the website.
+*
+<a name="deployment"></a>
 # 6. Deployment
-
+<a name="end-product"></a>
 # 7. End Product
 
 Please view a link to the finished product<a href="https://abdullahjr0.github.io/MS1/">here</a>
-
+<a name="credits"></a>
 # 8. Credits
 
 ### Content
