@@ -6,6 +6,7 @@ Welcome to my first project. This website is for people looking for Personal tra
 The goal of this website?
 
 You can view the website here
+
 ![Am-I-responsive](https://user-images.githubusercontent.com/79915855/120698231-abbf7a80-c4a6-11eb-8c8f-eacb635817c8.jpg)
 
 
@@ -14,57 +15,56 @@ You can view the website here
 # Table of contents
 
 
-1. #  UX
+# 1. UX
 
 As an avid gym member, I wanted to ccreate a website which allowed me to use my passion as a tool to help others acheive their fitness goals
 
 This website is immediately apparent to users from first glance, allowing them to navigate with ease and find the most suitable services to sign up to.
 
 
-## 1.1 Strategy 
 
 ### Project Goals
 
 The goal of this website is to provide training services to help users to acheive their fitness goals, as well as increasing brand credibility.
 
-### User goals:
-* First time visitor goals
+### *User goals:
+* __First time visitor goals__
     * As a first time visitor, I want to immediately understand what the website is about
     * As a first time visitor, I want to be able to easily navigate and interact with the website
     * As a first time visitor, I want to be able to view the website on several devices
     * As a first time visitor, I want to feel comfortable that AJRF is provide the best services 
 
-* Potential Customer
+* __Potential Customer__
     * As a potential customer, I want to be able to see what others think of AJR Fitness
     * As a potential customer, I want to be able to book a class, view times and/or make an enquiry
     * As a potential customer, I want to be able to follow AJRF on social media
     * As a potential customer, I want to be able to know the location of the classes and if I can directly contact them via telephone.
 
-### User expectations:
+* __User expectations__
 
 The website should allow Users to feel satisfied with their experience regardless if they have chosen to book a course or not.
 
-* The wesbite content should be  clear and provide unambigous information
-* It should immediately be evident to the user what the website is offering
-* User interface is easy to navigate 
-* Have the ability to contact the company via email, telephone or physically showing up.
-* Responsive design across all devices
+    * The wesbite content should be  clear and provide unambigous information
+    * It should immediately be evident to the user what the website is offering
+    * User interface is easy to navigate 
+    * Have the ability to contact the company via email, telephone or physically showing up.
+    * Responsive design across all devices
 
-# 2.  Skeleton
+## *Design 
 
-I used balsamiq to create my wireframe and provide a template of the UI. It shows exactly where elements are to be placed on the screen.
-This can be viewed <a href="wireframes.md">here</a>
+### __Typography__
+* The Poppins font is the primary font used throughout the whole website. Sans Serif is the fallback font in case the primary font is not displayed correctly. Poppins is a sleek font that is used in Graphic design, providing an aesthetically pleasing experience for the user.
 
-## 2.1 Surface
+### __Images__
+* All images are directly from Adobe stock which provide high quality resolution. 
 
-### Typography
-I chose to use Poppins throughout the website to keep it consistent.
+### __Colours Scheme __
+* The two main colurs used are very dark grey (almost black) and white consistently throughout the website, including consistent image colour schemes.
 
-### Images
-All images are directly from Adobe stock which provide high quality resolution. 
+## Wireframes 
+* Desktop Wireframe - <a href="wireframes.md">View</a>
+* Mobile Wireframe  - <a href="wireframes.md">View</a>
 
-### Colours 
-I chose to a combination of very dark grey (almost black) and white to allow for a slick aesthetic
 
 # 3.  Features
 
