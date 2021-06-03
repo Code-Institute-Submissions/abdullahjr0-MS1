@@ -12,8 +12,16 @@ You can view the website here
 
 
 # Table of contents
+1. <a href="#UX">UX</a>
+2. Features
+3. Technologies used
+4. Testing
+5. Deployment Cycle
+6. Deployment
+7. End Product
+8. Credits
 
-
+<id="UX">
 # 1. UX
 
 As an avid gym member, I wanted to create a website which allowed me to use my passion as a tool to help others acheive their fitness goals
@@ -133,7 +141,7 @@ There were a few elements that were changed, re-positioned or added from my orig
 * A phone nymber is placed at the bottom of the map if the user is interested in instant communication.
 * Contact content remained the same but I added a hover animation over each box to avoid user confusion when filling out and also make it visually pleasing.
 
-# 6. Deplyoment
+# 6. Deployment
 
 # 7. End Product
 
