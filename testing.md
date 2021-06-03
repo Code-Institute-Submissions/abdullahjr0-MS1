@@ -106,6 +106,7 @@ No errors or warnings shown for CSS.
 
 * The website was tested on various different platforms, including, Google Chrome, Internet Explorer, Microsoft Edge and Safari Browsers
 * The website was viewed on a variety of devices such as Macbook, iPhone 12 Pro, iPhone 7 and desktop.
-* The website was also reviewed for it's responsiveness by inspecting the page on Google chrome
+* The website was also reviewed for it's responsiveness by inspecting the page on Google chrome.
+* All contents was run through grammarly to avoid spelling/grammar errors.
 
 
