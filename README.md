@@ -69,8 +69,8 @@ The website should allow Users to feel satisfied with their experience regardles
 * The two main colurs used are very dark grey (almost black) and white consistently throughout the website, including consistent image colour schemes.
 
 ## Wireframes 
-* Desktop Wireframe - <a href="wireframes.md">View</a>
-* Mobile Wireframe  - <a href="wireframes.md">View</a>
+* Desktop Wireframe - <a href="wireframes.md#desktop">View</a>
+* Mobile Wireframe  - <a href="wireframes.md#mobile">View</a>
 
 <a name="features"></a>
 # 2.  Features
@@ -126,6 +126,7 @@ On the top right, there is a nav bar which allows for efficient navigation throu
 
 Testing information can be found <a href="testing.md">here</a>
 <a name="deployment-cycle"></a>
+
 # 5. Deployment Cycle
 
 There were a few elements that were changed, re-positioned or added from my original wireframes as they were more appropriate for the user.
@@ -145,12 +146,17 @@ There were a few elements that were changed, re-positioned or added from my orig
 * Create a weekly newsletter where users can sign up to, to view any news or updates about the website.
 *
 <a name="deployment"></a>
+
 # 6. Deployment
+
+
 <a name="end-product"></a>
+
 # 7. End Product
 
-Please view a link to the finished product<a href="https://abdullahjr0.github.io/MS1/">here</a>
+Please view a link to the finished product<a href="https://abdullahjr0.github.io/MS1/"> here</a>
 <a name="credits"></a>
+
 # 8. Credits
 
 ### Content
