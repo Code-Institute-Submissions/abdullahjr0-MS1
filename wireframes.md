@@ -24,7 +24,8 @@ __About Us Page__
 ![About Us -mobile](https://user-images.githubusercontent.com/79915855/120722011-da4d4d80-c4c6-11eb-936f-5d209ad97928.png)
 
 __Services Page__
-![Services - Mobile](https://user-images.githubusercontent.com/79915855/120721787-7165d580-c4c6-11eb-86d4-acf1d1ef4c7d.png)
+![Services - Mobile](https://user-images.githubusercontent.com/79915855/120722156-2f895f00-c4c7-11eb-9b43-f16db38a102b.png)
+
 
 
 __Contact Page__
