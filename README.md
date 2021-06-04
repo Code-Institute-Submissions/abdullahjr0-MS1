@@ -190,5 +190,5 @@ Please view a link to the finished product [here](https://abdullahjr0.github.io/
 
 *   __Code__
     * Flip card animation was taken from [W3Schools](https://www.w3schools.com/howto/howto_css_flip_card.asp)
-    * The header on all pages was inspired by [Divinector] (https://www.youtube.com/watch?v=BkbkUtrLkls) on Youtube and some of the code was copied and edited.
+    * The header on all pages was inspired by [Divinector](https://www.youtube.com/watch?v=BkbkUtrLkls) on Youtube and some of the code was copied and edited.
     * The embedded Youtube video was taken from [Trusty Spotter](https://www.youtube.com/watch?v=VGHI9j-zR8k)
