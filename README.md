@@ -13,9 +13,13 @@ You can view the website [here](https://abdullahjr0.github.io/MS1/)
 
 # Table of contents
 1. [UX](#ux) <a name="UX"></a>
+    1. [User Goals](#user-goals)
+    1. [Design](#design)
+    1. [Wireframes](#wireframes)
 2. [Features](#features)
 3. [Technologies used](#technologies-used)
 4. [Testing](#testing)
+5. [Bugs Discovered](#bugs-discovered)
 5. [Deployment Cycle](#deployment-cycle)
 6. [Deployment](#deployment)
 7. [End Product](#end-product)
@@ -34,12 +38,16 @@ This website is immediately apparent to users from first glance, allowing them t
 
 The goal of this website is to provide training services to help users to acheive their fitness goals, as well as increasing brand credibility.
 
-### User goals:
+<a name="user-goals"></a>
+
+## 1.1. User goals:
 * __First time visitor goals__
     * As a first time visitor, I want to immediately understand what the website is about.
     * As a first time visitor, I want to be able to easily navigate and interact with the website.
     * As a first time visitor, I want to be able to view the website on several devices.
     * As a first time visitor, I want to feel comfortable that AJRF is providing the best services .
+
+
 
 * __Potential Customer__
     * As a potential customer, I want to be able to see what others think of AJR Fitness.
@@ -56,22 +64,30 @@ The goal of this website is to provide training services to help users to acheiv
     * Responsive design across all devices.
     * The website should allow for a satisfied UX.
 
-## Design 
+<a name="design"></a>
+
+## 1.2. Design 
+
 
 ### __Typography__
 * The Poppins font is the primary font used throughout the whole website. Sans Serif is the fallback font in case the primary font is not displayed correctly. Poppins is a sleek font that is used in Graphic design, providing an aesthetically pleasing experience for the user.
 
+
 ### __Images__
 * All images are directly from Adobe stock which provides high-quality resolution. 
+
 
 ### __Colours Scheme__
 * The two main colours used are very dark grey (almost black) and white consistently throughout the website, including consistent image colour schemes.
 
-## Wireframes 
+<a name="wireframes"></a>
+
+## 1.3. Wireframes 
 * Desktop and Mobile Wireframes - [View](https://github.com/abdullahjr0/MS1/blob/master/wireframes.md)
 
 
 <a name="features"></a>
+
 # 2.  Features
 [Go to the top](#UX) <a name="UX"></a>
 
@@ -128,9 +144,19 @@ On the top right, there is a nav bar that allows for efficient navigation throug
 [Go to the top](#UX) <a name="UX"></a>
 
 Testing information can be found [here](https://github.com/abdullahjr0/MS1/blob/master/testing.md)
+
+<a name="bugs-discovered"></a>
+# 5. Bugs Discovered
+[Go to the top](#UX) <a name="UX"></a>
+
+* Initially the service buttons on the home page did not take me directly to the specific headings on the Service page. This was fixed by putting each button in a div and assigning it an id.
+* On the contact page, when hovering over individual boxes they would disappear. This was fixed by making the box red when I hovered over it. Avoiding confusion and satisfied UX
+* On the services page, the times are at the back of the images, this is important information and instead should be placed beside the image, in turn, being swapped with the piece of text. 
+* The images on the services page have a flip card animation. After the effect takes place the image size is distorted, changing its width and height. This was left unchanged due to lack of time.
+
 <a name="deployment-cycle"></a>
 
-# 5. Deployment Cycle
+# 6. Deployment Cycle
 [Go to the top](#UX) <a name="UX"></a>
 
 There were a few elements that were changed, repositioned or added from my original wireframes as they were more appropriate for the user.
@@ -150,7 +176,7 @@ There were a few elements that were changed, repositioned or added from my origi
 * Create a weekly newsletter where users can sign up to, to view any news or updates about the website.
 <a name="deployment"></a>
 
-# 6. Deployment
+# 7. Deployment
 [Go to the top](#UX) <a name="UX"></a>
 
 1. Log into GitHub
@@ -173,13 +199,13 @@ __Run project locally and clone the project using Gitpod:__
 
 
 <a name="end-product"></a>
-# 7. End Product
+
+# 8. End Product
 [Go to the top](#UX) <a name="UX"></a>
 
-Please view a link to the finished product [here](https://abdullahjr0.github.io/MS1/)
-<a name="credits"></a>
+Please view below snapshots of the end product.
 
-# 8. Credits
+# 9. Credits
 [Go to the top](#UX) <a name="UX"></a>
 
 * __Content__
