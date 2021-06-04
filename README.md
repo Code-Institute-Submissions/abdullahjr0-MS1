@@ -182,7 +182,7 @@ Please view a link to the finished product [here](https://abdullahjr0.github.io/
 
 # 8. Credits
 [Go to the top](#UX) <a name="UX"></a>
-### Content
+
 * __Content__
     * Website was inspired by [Ronan Personal Training](https://www.ronanpersonaltraining.com/)
     * All hero, testimonial and service images are taken from [Adobe Stock](https://stock.adobe.com/uk/) 
