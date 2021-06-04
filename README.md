@@ -13,9 +13,9 @@ You can view the website [here](https://abdullahjr0.github.io/MS1/)
 
 # Table of contents
 1. [UX](#ux) <a name="UX"></a>
-    1. [User Goals](#user-goals)
-    1. [Design](#design)
-    1. [Wireframes](#wireframes)
+    * 1.1. [User Goals](#user-goals)
+    * 1.2. [Design](#design)
+    * 1.3. [Wireframes](#wireframes)
 2. [Features](#features)
 3. [Technologies used](#technologies-used)
 4. [Testing](#testing)
@@ -149,7 +149,7 @@ Testing information can be found [here](https://github.com/abdullahjr0/MS1/blob/
 # 5. Bugs Discovered
 [Go to the top](#UX) <a name="UX"></a>
 
-* Initially the service buttons on the home page did not take me directly to the specific headings on the Service page. This was fixed by putting each button in a div and assigning it an id.
+* Initially the buttons on the home page did not take me directly to the specific headings on the Service page. This was fixed by putting each service heading in a div and assigning it an id. And the buttons on the home page wrapped in an anchor tag with a href and the assigned id. This improved UX.
 * On the contact page, when hovering over individual boxes they would disappear. This was fixed by making the box red when I hovered over it. Avoiding confusion and satisfied UX
 * On the services page, the times are at the back of the images, this is important information and instead should be placed beside the image, in turn, being swapped with the piece of text. 
 * The images on the services page have a flip card animation. After the effect takes place the image size is distorted, changing its width and height. This was left unchanged due to lack of time.

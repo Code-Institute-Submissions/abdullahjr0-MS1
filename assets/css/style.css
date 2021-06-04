@@ -209,7 +209,7 @@ font-family: "poppins", sans-serif;
 
 
 .subject-area:hover, .text-input:hover, textarea:hover {
-  border-color: white;
+  border-color: red;
 }
 
 .subject-area {
@@ -240,6 +240,7 @@ font-family: "poppins", sans-serif;
   background-color: white;
   color: #262626;
 }
+
 
 label {
   float: left;
@@ -363,7 +364,6 @@ label {
 	padding-top: 80px;
 
 }
-
 
 /* flip images */
 
