@@ -74,7 +74,7 @@ The website should allow Users to feel satisfied with their experience regardles
 
 <a name="features"></a>
 # 2.  Features
-[Go to the top](#UX) <a name="UX"></a
+[Go to the top](#UX) <a name="UX"></a>
 
 ### All Web pages
 
@@ -109,7 +109,7 @@ On the top right, there is a nav bar which allows for efficient navigation throu
 * Hover effect applied on the form to allow the user to understand which part of the form they are completing.
 <a name="technologies-used"></a>
 #  3. Technologies used 
-[Go to the top](#UX) <a name="UX"></a
+[Go to the top](#UX) <a name="UX"></a>
 * HTML5
     * The project uses HyperText Markup Language.
 * CSS3
@@ -124,13 +124,13 @@ On the top right, there is a nav bar which allows for efficient navigation throu
     * The project uses Chrome to inspect the source code and uses lighthouse to test Performance, Best Practices, Accessibility and SEO.
 <a name="testing"></a>
 # 4. Testing
-[Go to the top](#UX) <a name="UX"></a
+[Go to the top](#UX) <a name="UX"></a>
 
 Testing information can be found <a href="testing.md">here</a>
 <a name="deployment-cycle"></a>
 
 # 5. Deployment Cycle
-[Go to the top](#UX) <a name="UX"></a
+[Go to the top](#UX) <a name="UX"></a>
 
 There were a few elements that were changed, re-positioned or added from my original wireframes as they were more appropriate for the user.
 
@@ -150,7 +150,7 @@ There were a few elements that were changed, re-positioned or added from my orig
 <a name="deployment"></a>
 
 # 6. Deployment
-[Go to the top](#UX) <a name="UX"></a
+[Go to the top](#UX) <a name="UX"></a>
 
 1. Log into GitHub
 2. Find repositories and choose your project
@@ -173,13 +173,13 @@ __Run project locally and clone the project using Gitpod:__
 
 <a name="end-product"></a>
 # 7. End Product
-[Go to the top](#UX) <a name="UX"></a
+[Go to the top](#UX) <a name="UX"></a>
 
 Please view a link to the finished product<a href="https://abdullahjr0.github.io/MS1/"> here</a>
 <a name="credits"></a>
 
 # 8. Credits
-[Go to the top](#UX) <a name="UX"></a
+[Go to the top](#UX) <a name="UX"></a>
 ### Content
 * __Content__
     * Website was inspired by Ronan Personal Training
