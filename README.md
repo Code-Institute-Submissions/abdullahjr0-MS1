@@ -117,11 +117,11 @@ On the top right, there is a nav bar which allows for efficient navigation throu
     * The project uses Cascading Style Sheets.
 * [Balsamiq](https://balsamiq.com/)
     * Used to create the wireframes during the initial design process.
-* [Github](Github.com)
+* [Github](https://github.com/)
     * Used to store project's code and files after being pushed from Git.
 * [Google Fonts](https://fonts.google.com/specimen/Poppins?query=pop)
     * Google fonts were used to import the "Poppins" font into style.css which is uses on all pages.
-*  [Google Chrome](https://www.google.com/intl/en_uk/chrome/")
+*  Google Chrome
     * The project uses Chrome to inspect the source code and uses lighthouse to test Performance, Best Practices, Accessibility and SEO.
 <a name="testing"></a>
 
@@ -186,9 +186,9 @@ Please view a link to the finished product [here](https://abdullahjr0.github.io/
 * __Content__
     * Website was inspired by [Ronan Personal Training](https://www.ronanpersonaltraining.com/)
     * All hero, testimonial and service images are taken from [Adobe Stock](https://stock.adobe.com/uk/) 
-    * Text is copied and edited from [Ronan Personal Training](https://www.ronanpersonaltraining.com/) and [Ten Health and Fitness](ten.co.uk)
+    * Text is copied and edited from [Ronan Personal Training](https://www.ronanpersonaltraining.com/) and [Ten Health and Fitness](https://www.ten.co.uk/)
 
 *   __Code__
     * Flip card animation was taken from [W3Schools](https://www.w3schools.com/howto/howto_css_flip_card.asp)
-    * The header on all pages was inspired by [Divinector] (https://www.youtube.com/watch?v=BkbkUtrLkls} on Youtube and some of the code was copied and edited.
+    * The header on all pages was inspired by [Divinector] (https://www.youtube.com/watch?v=BkbkUtrLkls) on Youtube and some of the code was copied and edited.
     * The embedded Youtube video was taken from [Trusty Spotter](https://www.youtube.com/watch?v=VGHI9j-zR8k)
