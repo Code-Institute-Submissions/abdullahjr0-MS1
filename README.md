@@ -4,7 +4,7 @@
 
 Welcome to my first project. This website is for people looking for Personal trainers.
 
-You can view the website [here]("https://abdullahjr0.github.io/MS1/")
+You can view the website [here](https://abdullahjr0.github.io/MS1/)
 
 ![Am-I-responsive](https://user-images.githubusercontent.com/79915855/120698231-abbf7a80-c4a6-11eb-8c8f-eacb635817c8.jpg)
 
