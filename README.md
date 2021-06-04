@@ -12,7 +12,7 @@ You can view the website here
 
 
 # Table of contents
-1. [UX](#ux)
+1. [UX](#ux) <a name="UX"></a>
 2. [Features](#features)
 3. [Technologies used](#technologies-used)
 4. [Testing](#testing)
@@ -69,11 +69,12 @@ The website should allow Users to feel satisfied with their experience regardles
 * The two main colurs used are very dark grey (almost black) and white consistently throughout the website, including consistent image colour schemes.
 
 ## Wireframes 
-* Desktop Wireframe - [View](#desktop) 
-* Mobile Wireframe  - [View](#mobile)
+* Desktop Wireframe - <a href="wireframes.md">View</a>
+* Mobile Wireframe  - <a href="wireframes.md">View</a>
 
 <a name="features"></a>
 # 2.  Features
+[Go to the top](#UX) <a name="UX"></a
 
 ### All Web pages
 
@@ -108,7 +109,7 @@ On the top right, there is a nav bar which allows for efficient navigation throu
 * Hover effect applied on the form to allow the user to understand which part of the form they are completing.
 <a name="technologies-used"></a>
 #  3. Technologies used 
-
+[Go to the top](#UX) <a name="UX"></a
 * HTML5
     * The project uses HyperText Markup Language.
 * CSS3
@@ -123,11 +124,13 @@ On the top right, there is a nav bar which allows for efficient navigation throu
     * The project uses Chrome to inspect the source code and uses lighthouse to test Performance, Best Practices, Accessibility and SEO.
 <a name="testing"></a>
 # 4. Testing
+[Go to the top](#UX) <a name="UX"></a
 
 Testing information can be found <a href="testing.md">here</a>
 <a name="deployment-cycle"></a>
 
 # 5. Deployment Cycle
+[Go to the top](#UX) <a name="UX"></a
 
 There were a few elements that were changed, re-positioned or added from my original wireframes as they were more appropriate for the user.
 
@@ -147,17 +150,36 @@ There were a few elements that were changed, re-positioned or added from my orig
 <a name="deployment"></a>
 
 # 6. Deployment
+[Go to the top](#UX) <a name="UX"></a
+
+1. Log into GitHub
+2. Find repositories and choose your project
+3. Find "Settings" amongst the menu items
+4. Scroll down to GitHub pages section
+5. Under "Source" heading, click Branch and select master branch from the drop-down menu
+6. When selecting master branch, the page will refresh automatically and will be live and deployed.
+7. Go back to the pages section in settings and the link will appear there.
+
+__Run project locally and clone the project using Gitpod:__
+
+1. Create a Github account
+2. Use the chrome browser and install the Gitpod extensions for Chrome
+3. Restart your browser and Login to Github
+4. Go to project Github repository
+5. Click on the green Gitpod button and this will allow a new Gitpod workspace that will be created from the code 
+6. You can now work locally
+
 
 
 <a name="end-product"></a>
-
 # 7. End Product
+[Go to the top](#UX) <a name="UX"></a
 
 Please view a link to the finished product<a href="https://abdullahjr0.github.io/MS1/"> here</a>
 <a name="credits"></a>
 
 # 8. Credits
-
+[Go to the top](#UX) <a name="UX"></a
 ### Content
 * __Content__
     * Website was inspired by Ronan Personal Training
