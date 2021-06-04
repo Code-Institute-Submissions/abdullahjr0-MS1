@@ -69,8 +69,8 @@ The website should allow Users to feel satisfied with their experience regardles
 * The two main colurs used are very dark grey (almost black) and white consistently throughout the website, including consistent image colour schemes.
 
 ## Wireframes 
-* Desktop Wireframe - <a href="wireframes.md#desktop">View</a>
-* Mobile Wireframe  - <a href="wireframes.md#mobile">View</a>
+* Desktop Wireframe - [View](#desktop) 
+* Mobile Wireframe  - [View](#mobile)
 
 <a name="features"></a>
 # 2.  Features
@@ -144,7 +144,6 @@ There were a few elements that were changed, re-positioned or added from my orig
 
 #### Future Implements
 * Create a weekly newsletter where users can sign up to, to view any news or updates about the website.
-*
 <a name="deployment"></a>
 
 # 6. Deployment

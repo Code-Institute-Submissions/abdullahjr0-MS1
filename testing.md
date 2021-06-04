@@ -4,6 +4,7 @@
  To identify and fix common problems affecting my sites Performance, Best Practices, Accessibility and SEO. By right clicking and choosing inspect or
 pressing the keyboard combination "Ctrl + Shift + I" I was able to view and edit my code before making changes.
 
+
 Desktop Perfomance
 ![Lighthouse check](https://user-images.githubusercontent.com/79915855/120713597-0f9f6e80-c4ba-11eb-8285-e4ab3ba4100c.jpg)
 
@@ -12,7 +13,7 @@ Mobile Perfomance
 ![Lighthouse check](https://user-images.githubusercontent.com/79915855/120713597-0f9f6e80-c4ba-11eb-8285-e4ab3ba4100c.jpg)
 
 
-* 2. <a href="https://validator.w3.org/">Jigsaw W3</a>
+* 2. <a href="https://validator.w3.org/">The W3C Markup Validation Service</a>
 No errors or warnings shown for HTML
 ![website-validation](https://user-images.githubusercontent.com/79915855/120714080-a79d5800-c4ba-11eb-81ba-f74081b6d543.jpg)
 
@@ -38,27 +39,27 @@ No errors or warnings shown for CSS.
 * Hero Image - Loads on all pages.
 
 * __Home Page__
- * AJR Fitness logo visible and adjusts in size depending on what device is being used. _Worked as expected_
- * Service buttons text turns light grey when hovered over and direct me to the correct page. _Worked as expected_
+    * AJR Fitness logo visible and adjusts in size depending on what device is being used. _Worked as expected_
+    * Service buttons text turns light grey when hovered over and direct me to the correct page. _Worked as expected_
 
 * __About Us Page__
- * Testimonial Images load _as expected_
+    * Testimonial Images load _as expected_
 
 * __Services Page__
- * Flipping Images animation - When I hover over the individual services, the image flips 180 degrees and shows information of times. Once my mouse is removed it returns back to its initial state. _Worked as expected_
- * Book now button text turns light grey when hovered over and directs me to the contact page. _Worked as expected_
+    * Flipping Images animation - When I hover over the individual services, the image flips 180 degrees and shows information of times. Once my mouse is removed it returns back to its initial state. _Worked as expected_
+    * Book now button text turns light grey when hovered over and directs me to the contact page. _Worked as expected_
 
 * __Contact Page__
- * I tested each field on the contact form by entering the appropriate information. _Worked as expected_
- * Dropdown on subject section initially displaying "Choose an option" and changes once a different selection is made. _Worked as expected_ 
- * If fields are not completed there is an error message. _Worked as expected_
- * Maps page displays desired location but is also interactive. _Worked as expected_
- * Send button works and redirects you to Code institutes formdump site. __See Below__
+    * I tested each field on the contact form by entering the appropriate information. _Worked as expected_
+    * Dropdown on subject section initially displaying "Choose an option" and changes once a different selection is made. _Worked as expected_ 
+    * If fields are not completed there is an error message. _Worked as expected_
+    * Maps page displays desired location but is also interactive. _Worked as expected_
+    * Send button works and redirects you to Code institutes formdump site. __See Below__
 ![Code-submit](https://user-images.githubusercontent.com/79915855/120714669-66f20e80-c4bb-11eb-854f-4f2f3b6925cd.jpg)
 
 
-* If I do not complete all fields and try to send form, an error message appears. _Works as expected_
-* If I do not use an @ in the email address, message pops up. _Worked as expected_
+    * If I do not complete all fields and try to send form, an error message appears. _Works as expected_
+    * If I do not use an @ in the email address, message pops up. _Worked as expected_
 ![email-test](https://user-images.githubusercontent.com/79915855/120714737-80935600-c4bb-11eb-8fcd-4a4ed45c86ec.jpg)
 
 ## Testing my User Goals
