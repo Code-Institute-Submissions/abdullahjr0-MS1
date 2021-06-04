@@ -153,6 +153,7 @@ Testing information can be found [here](https://github.com/abdullahjr0/MS1/blob/
 * On the contact page, when hovering over individual boxes they would disappear. This was fixed by making the box red when I hovered over it. Avoiding confusion and satisfied UX
 * On the services page, the times are at the back of the images, this is important information and instead should be placed beside the image, in turn, being swapped with the piece of text. 
 * The images on the services page have a flip card animation. After the effect takes place the image size is distorted, changing its width and height. This was left unchanged due to lack of time.
+* There is a spacing issue on the services page which has been left unchanged due to lack of time.
 
 <a name="deployment-cycle"></a>
 
@@ -204,6 +205,24 @@ __Run project locally and clone the project using Gitpod:__
 [Go to the top](#UX) <a name="UX"></a>
 
 Please view below snapshots of the end product.
+
+__Home Page__
+![home-snapshot](https://user-images.githubusercontent.com/79915855/120858957-72a50a00-c57b-11eb-868d-0ff73b75bb14.jpg)
+![home2-snapshot](https://user-images.githubusercontent.com/79915855/120858956-72a50a00-c57b-11eb-8f7d-ec90a2150742.jpg)
+
+__About Us Page__
+![about-us-snapshot](https://user-images.githubusercontent.com/79915855/120858952-7173dd00-c57b-11eb-9bf0-365fb1cf2242.jpg)
+![testimonial-snapshot](https://user-images.githubusercontent.com/79915855/120858962-733da080-c57b-11eb-8f75-8fb494b35ad0.jpg)
+
+__Services Page__
+![services-snapshot](https://user-images.githubusercontent.com/79915855/120858961-733da080-c57b-11eb-9593-ac25743aba6a.jpg)
+![services1snapshot](https://user-images.githubusercontent.com/79915855/120858959-72a50a00-c57b-11eb-867e-b45d0391f344.jpg)
+
+__Contact Page__
+![contact-snapshot](https://user-images.githubusercontent.com/79915855/120858955-720c7380-c57b-11eb-8d3b-644cf88a85e9.jpg)
+![contact1-snapshot](https://user-images.githubusercontent.com/79915855/120858954-720c7380-c57b-11eb-9477-1199f669e156.jpg)
+
+
 
 # 9. Credits
 [Go to the top](#UX) <a name="UX"></a>
