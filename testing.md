@@ -1,15 +1,15 @@
 # Testing
 
 * 1. __Lighthouse__
- To identify and fix common problems affecting my sites Performance, Best Practices, Accessibility and SEO. By right clicking and choosing inspect or
+ To identify and fix common problems affecting my sites Performance, Best Practices, Accessibility and SEO. By right-clicking and choosing inspect or
 pressing the keyboard combination "Ctrl + Shift + I" I was able to view and edit my code before making changes.
 
 
-Desktop Perfomance
+Desktop Performance
 ![Lighthouse check](https://user-images.githubusercontent.com/79915855/120713597-0f9f6e80-c4ba-11eb-8285-e4ab3ba4100c.jpg)
 
 
-Mobile Perfomance
+Mobile Performance
 ![Lighthouse check](https://user-images.githubusercontent.com/79915855/120713597-0f9f6e80-c4ba-11eb-8285-e4ab3ba4100c.jpg)
 
 
@@ -29,8 +29,8 @@ No errors or warnings shown for CSS.
 
 * __Navigation Bar:__
     * Home - When clicking on Home I am directed to the Home Page and the text changes from white to light grey to indicate that I am on the home page. The other nav buttons
-    have a working hover affect where text changes color on hover
-    * About Us - When clicking About us I am directed to the About Us page and the hover affect _worked as expected_
+    have a working hover effect where text changes colour on hover
+    * About Us - When clicking About us I am directed to the About Us page and the hover effect _worked as expected_
     * AJR Fitness logo - when clicked I am redirected back to the home page, this _worked as expected_
     * Text - Font family is consistent on all pages, and no grammar/spelling mistakes were found.
     * Media - I checked that all the Images load properly on all the pages. 
@@ -54,7 +54,7 @@ No errors or warnings shown for CSS.
     * Dropdown on subject section initially displaying "Choose an option" and changes once a different selection is made. _Worked as expected_ 
     * If fields are not completed there is an error message. _Worked as expected_
     * Maps page displays desired location but is also interactive. _Worked as expected_
-    * Send button works and redirects you to Code institutes formdump site. __See Below__
+    * Send button works and redirects you to Code institutes form dump site. __See Below__
 ![Code-submit](https://user-images.githubusercontent.com/79915855/120714669-66f20e80-c4bb-11eb-854f-4f2f3b6925cd.jpg)
 
 
@@ -67,22 +67,22 @@ No errors or warnings shown for CSS.
 * __User goals:__
 
 * As a first time visitor, I want to immediately understand what the website is about
-    * Upon entering the website, users are greeted with a sleek and easily readable navigation bar. A high quality hero image which immediately allows the user to understand what the website is about. 
+    * Upon entering the website, users are greeted with a sleek and easily readable navigation bar. A high-quality hero image which immediately allows the user to understand what the website is about. 
     * The visible logo on the top left of the landing page is short and simple, making it self-explanatory as to what the website offers.
 
 * As a first time visitor, I want to be able to easily navigate and interact with the website
-    * The site has beeen designed to allow the user to quickly navigate through the pages without having to suffocate the user, it has breif yet informative information on each page. Each button explains clearly where the user will end up. 
-    * The main page provides a service button which takes the user directly to the specific part of the Service page. So the user doesn't have to scroll
+    * The site has been designed to allow the user to quickly navigate through the pages without having to suffocate the user, it has brief yet informative information on each page. Each button explains clearly where the user will end up. 
+    * The main page provides a service button that takes the user directly to the specific part of the Service page. So the user doesn't have to scroll
     * The Service page has a BOOK now button which upon click directs them to the Contact page where they can fill out their details with ease. 
     * The logo is clickable and appears on every page which directs you to the home page.
-    * Each button including the nav bar has a hover effect which changes to a different colour so the user understands where exactly he will be directed to. And the active page is a different colour to the rest which avoids confusion.
+    * Each button including the navbar has a hover effect which changes to a different colour so the user understands where exactly he will be directed to. And the active page is a different colour to the rest which avoids confusion.
 
 ![navigation](https://user-images.githubusercontent.com/79915855/120714797-9a349d80-c4bb-11eb-89b4-fa1f3de2c29f.jpg)
 
-* As a first time visitor, I want to feel comfortable that AJRF is provide the best services 
+* As a first time visitor, I want to feel comfortable that AJRF is providing the best services 
 * As a potential customer, I want to be able to see what others think of AJR Fitness
     * On the about us page, there is a brief description explaining the certifications that each professional at AJRF has, allowing the user to feel comfortable in their hands.
-    * Towards the bottom of the page there are three different testimonials and how AJRF has helped the happy customers.
+    * Towards the bottom of the page there are three different testimonials and how AJRF has helped happy customers.
     ![testimonial](https://user-images.githubusercontent.com/79915855/120714827-a3be0580-c4bb-11eb-8ac1-a792b15bc051.jpg)
 
 
@@ -103,11 +103,11 @@ No errors or warnings shown for CSS.
     * A telephone number is provided on the contact page.
 ![maps](https://user-images.githubusercontent.com/79915855/120714906-bf291080-c4bb-11eb-9b7d-940176e32cd6.jpg)
 
-## Futher Testing
+## Further Testing
 
-* The website was tested on various different platforms, including, Google Chrome, Internet Explorer, Microsoft Edge and Safari Browsers
+* The website was tested on various platforms, including, Google Chrome, Internet Explorer, Microsoft Edge and Safari Browsers
 * The website was viewed on a variety of devices such as Macbook, iPhone 12 Pro, iPhone 7 and desktop.
 * The website was also reviewed for it's responsiveness by inspecting the page on Google chrome.
-* All contents was run through grammarly to avoid spelling/grammar errors.
+* All contents was run through Grammarly to avoid spelling/grammar errors.
 
 

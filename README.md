@@ -36,26 +36,25 @@ The goal of this website is to provide training services to help users to acheiv
 
 ### User goals:
 * __First time visitor goals__
-    * As a first time visitor, I want to immediately understand what the website is about
-    * As a first time visitor, I want to be able to easily navigate and interact with the website
-    * As a first time visitor, I want to be able to view the website on several devices
-    * As a first time visitor, I want to feel comfortable that AJRF is providing the best services 
+    * As a first time visitor, I want to immediately understand what the website is about.
+    * As a first time visitor, I want to be able to easily navigate and interact with the website.
+    * As a first time visitor, I want to be able to view the website on several devices.
+    * As a first time visitor, I want to feel comfortable that AJRF is providing the best services .
 
 * __Potential Customer__
-    * As a potential customer, I want to be able to see what others think of AJR Fitness
-    * As a potential customer, I want to be able to book a class, view times and/or make an enquiry
-    * As a potential customer, I want to be able to follow AJRF on social media
+    * As a potential customer, I want to be able to see what others think of AJR Fitness.
+    * As a potential customer, I want to be able to book a class, view times and/or make an enquiry.
+    * As a potential customer, I want to be able to follow AJRF on social media.
     * As a potential customer, I want to be able to know the location of the classes and if I can directly contact them via telephone.
 
 * __User expectations__
-
-The website should allow Users to feel satisfied with their experience regardless if they have chosen to book a course or not.
-
-    * The website content should be  clear and provide unambiguous information
-    * It should immediately be evident to the user what the website is offering
-    * User interface is easy to navigate 
+ 
+    * The website content should be clear and provide unambiguous information.
+    * It should immediately be evident to the user what the website is offering.
+    * User interface is easy to navigate.
     * Have the ability to contact the company via email, telephone or physically showing up.
-    * Responsive design across all devices
+    * Responsive design across all devices.
+    * The website should allow for a satisfied UX.
 
 ## Design 
 
@@ -91,7 +90,7 @@ On the top right, there is a nav bar that allows for efficient navigation throug
 
 #### About Us Page
 
-*  A summary about AJR Fitness 
+*  A summary about AJR Fitness.
 *  Improving UX with a testimonials section of three different happy customers and their stories and an added picture.
 
 ####  Services Page
@@ -159,8 +158,8 @@ There were a few elements that were changed, repositioned or added from my origi
 3. Find "Settings" amongst the menu items
 4. Scroll down to GitHub pages section
 5. Under the "Source" heading, click Branch and select master branch from the drop-down menu
-6. When selecting the master branch, the page will refresh automatically and will be live and deployed.
-7. Go back to the pages section in settings and the link will appear there.
+6. When selecting the master branch, the page will refresh automatically and will be live and deployed
+7. Go back to the pages section in settings and the link will appear there
 
 __Run project locally and clone the project using Gitpod:__
 
