@@ -13,13 +13,13 @@ Mobile Perfomance
 ![Lighthouse check](https://user-images.githubusercontent.com/79915855/120713597-0f9f6e80-c4ba-11eb-8285-e4ab3ba4100c.jpg)
 
 
-* 2. <a href="https://validator.w3.org/">The W3C Markup Validation Service</a>
+* 2. [The W3C Markup Validation Service](https://validator.w3.org/)
 No errors or warnings shown for HTML
 ![website-validation](https://user-images.githubusercontent.com/79915855/120714080-a79d5800-c4ba-11eb-81ba-f74081b6d543.jpg)
 
 
 
-* 3. <a href="https://jigsaw.w3.org/css-validator/">Jigsaw W3</a>
+* 3. [Jigsaw W3](https://jigsaw.w3.org/css-validator/)
 No errors or warnings shown for CSS.
 ![css-validation](https://user-images.githubusercontent.com/79915855/120714411-111d6680-c4bb-11eb-8eff-d100bd69921a.jpg)
 
