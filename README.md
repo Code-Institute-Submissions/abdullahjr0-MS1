@@ -4,7 +4,7 @@
 
 Welcome to my first project. This website is for people looking for Personal trainers.
 
-You can view the website [here]("https://abdullahjr0.github.io/MS1/")
+You can view the website ![here]("https://abdullahjr0.github.io/MS1/")
 
 ![Am-I-responsive](https://user-images.githubusercontent.com/79915855/120698231-abbf7a80-c4a6-11eb-8c8f-eacb635817c8.jpg)
 
@@ -69,8 +69,8 @@ The website should allow Users to feel satisfied with their experience regardles
 * The two main colurs used are very dark grey (almost black) and white consistently throughout the website, including consistent image colour schemes.
 
 ## Wireframes 
-* Desktop Wireframe - <a href="wireframes.md">View</a>
-* Mobile Wireframe  - <a href="wireframes.md">View</a>
+* Desktop and Mobile Wireframes - [View](https://github.com/abdullahjr0/MS1/blob/master/wireframes.md)
+
 
 <a name="features"></a>
 # 2.  Features
@@ -108,25 +108,27 @@ On the top right, there is a nav bar which allows for efficient navigation throu
 * Drop down section under 'Subject' to allow user to specifiy their message.
 * Hover effect applied on the form to allow the user to understand which part of the form they are completing.
 <a name="technologies-used"></a>
+
 #  3. Technologies used 
 [Go to the top](#UX) <a name="UX"></a>
 * HTML5
     * The project uses HyperText Markup Language.
 * CSS3
     * The project uses Cascading Style Sheets.
-* <a href="Balsamiq.com">Balsamiq</a>
+* [Balsamiq](https://balsamiq.com/)
     * Used to create the wireframes during the initial design process.
-* <a href="Github.com">Github</a>
+* [Github](Github.com)
     * Used to store project's code and files after being pushed from Git.
-* <a href="https://fonts.google.com/specimen/Poppins?query=pop">Google Fonts</a>
+* [Google Fonts](https://fonts.google.com/specimen/Poppins?query=pop)
     * Google fonts were used to import the "Poppins" font into style.css which is uses on all pages.
-*  <a href="https://www.google.com/intl/en_uk/chrome/">Google Chrome</a>
+*  [Google Chrome](https://www.google.com/intl/en_uk/chrome/")
     * The project uses Chrome to inspect the source code and uses lighthouse to test Performance, Best Practices, Accessibility and SEO.
 <a name="testing"></a>
+
 # 4. Testing
 [Go to the top](#UX) <a name="UX"></a>
 
-Testing information can be found <a href="testing.md">here</a>
+Testing information can be found [here](https://github.com/abdullahjr0/MS1/blob/master/testing.md)
 <a name="deployment-cycle"></a>
 
 # 5. Deployment Cycle
@@ -175,18 +177,18 @@ __Run project locally and clone the project using Gitpod:__
 # 7. End Product
 [Go to the top](#UX) <a name="UX"></a>
 
-Please view a link to the finished product<a href="https://abdullahjr0.github.io/MS1/">here</a>
+Please view a link to the finished product [here](https://abdullahjr0.github.io/MS1/)
 <a name="credits"></a>
 
 # 8. Credits
 [Go to the top](#UX) <a name="UX"></a>
 ### Content
 * __Content__
-    * Website was inspired by Ronan Personal Training
-    * All hero, testimonial and service images are taken from <a href="https://stock.adobe.com/uk/">Adobe Stock</a>
-    * Text is copied and edited from <a href="https://www.ronanpersonaltraining.com/">Ronan Personal Training</a> and <a href="ten.co.uk">Ten Health and Fitness</a>
+    * Website was inspired by [Ronan Personal Training](https://www.ronanpersonaltraining.com/)
+    * All hero, testimonial and service images are taken from [Adobe Stock](https://stock.adobe.com/uk/) 
+    * Text is copied and edited from [Ronan Personal Training](https://www.ronanpersonaltraining.com/) and [Ten Health and Fitness](ten.co.uk)
 
 *   __Code__
-    * Flip card animation was taken from <a href="https://www.w3schools.com/howto/howto_css_flip_card.asp">W3Schools</a>
-    * The header on all pages was inspired by <a href="https://www.youtube.com/watch?v=BkbkUtrLkls">Divinector</a> on Youtube and some of the code was copied and edited.
-    * The embedded Youtube video was taken from <a href="https://www.youtube.com/watch?v=VGHI9j-zR8k">Trusty Spotter</a> 
+    * Flip card animation was taken from [W3Schools](https://www.w3schools.com/howto/howto_css_flip_card.asp)
+    * The header on all pages was inspired by [Divinector] (https://www.youtube.com/watch?v=BkbkUtrLkls} on Youtube and some of the code was copied and edited.
+    * The embedded Youtube video was taken from [Trusty Spotter](https://www.youtube.com/watch?v=VGHI9j-zR8k)
